@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: caramellatte --default, dark --prefersdark;
+}
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+.bookmark-icon {
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.bg-paud {
+  background-image: url("./assets/gambar/paud-jumbotron.jpg");  
+}
+
+.bg-daftar {
+  background-image: url("./assets/gambar/pendaftaran.jpg");    
+}
