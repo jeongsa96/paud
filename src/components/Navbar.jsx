@@ -71,21 +71,12 @@ function Navbar() {
               <a href="/galeri">Galeri</a>
             </li>
             <li>
-<<<<<<< HEAD
               <Link to="/bookmark">Berita</Link>
             </li>
           </ul>
         </div>
         <Link to="/" className="btn btn-ghost text-xl">
           Cendekia
-=======
-              <Link to="/bookmark">Bookmarks</Link>
-            </li>
-          </ul>
-        </div>
-        <Link to="/" className="btn btn-ghost hover:bg-transparent text-xl">
-          Watchathon!
->>>>>>> f331993012bf2a4af7962d1542a15935ed28e894
         </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
@@ -100,11 +91,7 @@ function Navbar() {
             <a href="/galeri">Galeri</a>
           </li>
           <li>
-<<<<<<< HEAD
             <Link to="/bookmark">Berita</Link>
-=======
-            <Link to="/bookmark">Bookmarks</Link>
->>>>>>> f331993012bf2a4af7962d1542a15935ed28e894
           </li>
         </ul>
       </div>
