@@ -23,5 +23,5 @@ html {
 
 .bg-daftar {
   background-image: url("./assets/gambar/pendaftaran.jpg");   
-  background-repeat: no-repeat;
+  object-fit: contain;
 }
