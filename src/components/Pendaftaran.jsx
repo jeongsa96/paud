@@ -1,6 +1,6 @@
 function Pendaftaran() {
   return (
-    <div data-aos="flip-right" data-aos-duration="2000" className="hero bg-right bg-daftar items-end justify-items-start overflow-ellipsis">
+    <div data-aos="flip-right" data-aos-duration="2000" className="hero bg-right bg-daftar items-end justify-items-start overflow-visible">
       <div className="hero"></div>
       <div className="hero-content hero-text text-neutral-content ">
         <div className="max-w-md">
