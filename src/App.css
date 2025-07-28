@@ -23,8 +23,7 @@ html {
 }
 
 .bg-daftar {
-  background-image: url("./assets/gambar/pendaftaran.jpg");   
-  min-width: 1507px;
-  min-height: 600px;
+  background-image: url("./assets/gambar/daftar.jpg");   
+  max-height: 450px;
   background-size: cover;
 }

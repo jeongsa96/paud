@@ -1,6 +1,6 @@
 function Berita(props) {
       return (
-        <div class="flex space-x-1 lg:mx-64 overflow-x-hidden px-4 pt-1 lg:space-x-3">
+        <div class="flex space-x-1 lg:mx-48 overflow-x-hidden px-4 pt-1 lg:space-x-3">
         {
             props.beritaList.map((item, index) => {
                 return (
